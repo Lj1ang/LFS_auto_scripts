@@ -1,5 +1,5 @@
 #!/bin/bash
-
+set -e 
 DIR=/root/scripts/chapter6
 LOG_DIR=/root/scripts/chapter6
 tools=(
